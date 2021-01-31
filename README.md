@@ -1,1 +1,1 @@
-### Simple notepad website using Reac.JS and SASS
+### `Simple notepad website using Reac.JS and SASS`
